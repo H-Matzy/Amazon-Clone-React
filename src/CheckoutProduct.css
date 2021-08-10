@@ -3,7 +3,6 @@
   margin-top: 20px;
   margin-bottom: 20px;
   border: 1px solid lightgray;
-  max-width: 600px;
 }
 
 .checkoutProduct__info {
@@ -43,6 +42,9 @@
 }
 .checkout {
   justify-content: space-between;
+}
+.subtotal {
+  float: right;
 }
 
 .checkout__ad {
