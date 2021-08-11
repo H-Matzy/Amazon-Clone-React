@@ -47,10 +47,13 @@
   margin-right: 10px;
   color: white;
 }
-
 .header__nav {
   display: flex;
   justify-content: space-evenly;
+}
+
+.header__nav > a {
+  text-decoration: none;
 }
 
 .header__optionLineOne {
